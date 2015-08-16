@@ -1,1 +1,3 @@
-user.php
+<?php
+ echo "hello sir";
+ echo "fffd"
