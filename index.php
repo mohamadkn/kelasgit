@@ -1,7 +1,5 @@
 <?php
-<<<<<<< HEAD
 echo "hello git";
-=======
 
 echo "hello git at UTM";
 
@@ -12,6 +10,5 @@ echo"Most of the time you will have a checked-out branch (the special reference 
 if ($_POST['edit']) {
 	echo "for editing";
 }
->>>>>>> 9d015d5638de73068722eb6b0034ef5a9a16668f
 
 test
